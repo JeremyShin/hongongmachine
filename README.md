@@ -51,4 +51,4 @@ $ pyenv deactivate
 $ pyenv virtualenvs
 ```
 
-reff : [Python(pyenv) 성치 및 버전관리](https://leesh90.github.io/environment/2021/04/03/python-install/).
+reff : [Python(pyenv) 성치 및 버전관리](https://leesh90.github.io/environment/2021/04/03/python-install/)

@@ -52,3 +52,19 @@ $ pyenv virtualenvs
 ```
 
 reff : [Python(pyenv) 성치 및 버전관리](https://leesh90.github.io/environment/2021/04/03/python-install/)
+
+# jupyter 설치
+```shell
+pip3 install --upgrade pip
+pip install jupyter
+```
+# jupyter 실행
+```shell
+jupyter notebook "./"
+```
+
+
+
+
+
+
